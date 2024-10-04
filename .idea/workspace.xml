@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Engine" />
+      <artifact name="Sheetcell" />
+      <artifact name="jaxb" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="498a70a3-7c50-4c46-bee2-87d20c91d228" name="Changes" comment="final">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Engine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Sheetcell.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RomShemer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RomShemer/sheetcell.git&quot;,
+    &quot;accountId&quot;: &quot;0254f9ad-d421-4978-8c83-6bc608c149e2&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kZKkQYaTgGAd6zmXWOGiwh21M2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/java/sheetcell/UI/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/java/sheetcell/UI/Engine/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\java\sheetcell" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="CELL_COORDINATE" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="xmlLoader" />
+      <recent name="logicStructure.expression.parser" />
+      <recent name="api" />
+      <recent name="UI" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="UI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logicStructure.expression.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="498a70a3-7c50-4c46-bee2-87d20c91d228" name="Changes" comment="" />
+      <created>1723485801926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723485801926</updated>
+      <workItem from="1723485802788" duration="53955000" />
+      <workItem from="1723891140695" duration="39000" />
+      <workItem from="1723891300160" duration="53000" />
+      <workItem from="1723891443610" duration="136000" />
+      <workItem from="1723891833268" duration="283282000" />
+    </task>
+    <task id="LOCAL-00001" summary="operations">
+      <option name="closed" value="true" />
+      <created>1723841316856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723841316856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="operations">
+      <option name="closed" value="true" />
+      <created>1723841391259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723841391259</updated>
+    </task>
+    <task id="LOCAL-00003" summary="operations + open UI files">
+      <option name="closed" value="true" />
+      <created>1723843962674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723843962674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="operations + open UI files">
+      <option name="closed" value="true" />
+      <created>1723968199967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723968199967</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Set cell operation">
+      <option name="closed" value="true" />
+      <created>1724080223110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724080223110</updated>
+    </task>
+    <task id="LOCAL-00006" summary="xml">
+      <option name="closed" value="true" />
+      <created>1724084265631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724084265631</updated>
+    </task>
+    <task id="LOCAL-00007" summary="jaxb">
+      <option name="closed" value="true" />
+      <created>1724106294718</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724106294718</updated>
+    </task>
+    <task id="LOCAL-00008" summary="jaxb files + load xml">
+      <option name="closed" value="true" />
+      <created>1724150076381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724150076381</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jaxb files + load xml + validate">
+      <option name="closed" value="true" />
+      <created>1724156869429</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724156869429</updated>
+    </task>
+    <task id="LOCAL-00010" summary="jaxb files + load xml + validate">
+      <option name="closed" value="true" />
+      <created>1724158533477</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724158533477</updated>
+    </task>
+    <task id="LOCAL-00011" summary="jaxb files + load xml + validate">
+      <option name="closed" value="true" />
+      <created>1724164617716</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724164617716</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixed expressions message + fixed xml validator functions">
+      <option name="closed" value="true" />
+      <created>1724166192746</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724166192746</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fixed undefined problem">
+      <option name="closed" value="true" />
+      <created>1724178589370</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724178589370</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixed undefined problem">
+      <option name="closed" value="true" />
+      <created>1724228723090</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724228723090</updated>
+    </task>
+    <task id="LOCAL-00015" summary="set cell value Recursively">
+      <option name="closed" value="true" />
+      <created>1724320093025</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724320093025</updated>
+    </task>
+    <task id="LOCAL-00016" summary="set cell value topologicalSort">
+      <option name="closed" value="true" />
+      <created>1724324075402</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724324075402</updated>
+    </task>
+    <task id="LOCAL-00017" summary="UI = DTO">
+      <option name="closed" value="true" />
+      <created>1724364389411</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724364389411</updated>
+    </task>
+    <task id="LOCAL-00018" summary="UI + DTO + add toString and HashCode in CoordinateDTO for good display Sheet action">
+      <option name="closed" value="true" />
+      <created>1724365655100</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724365655100</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fixed update dep and inf lists after updating a single cell + fixed printing of single cell and Coordinate">
+      <option name="closed" value="true" />
+      <created>1724408493296</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1724408493296</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added versions handling and display versions">
+      <option name="closed" value="true" />
+      <created>1724499823445</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724499823445</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fixed adding new cell from update single cell action in Menu and more bugs fixed">
+      <option name="closed" value="true" />
+      <created>1724600522609</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1724600522609</updated>
+    </task>
+    <task id="LOCAL-00022" summary="removing edge (of dependedOn) when cell is updated to a different expression">
+      <option name="closed" value="true" />
+      <created>1724602178159</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1724602178159</updated>
+    </task>
+    <task id="LOCAL-00023" summary="circular dependency -&gt; DFS">
+      <option name="closed" value="true" />
+      <created>1724682669175</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1724682669175</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fixed DFS (Ref to Null not working good)">
+      <option name="closed" value="true" />
+      <created>1724710710683</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1724710710683</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fixed Ref to Null cell">
+      <option name="closed" value="true" />
+      <created>1724712705884</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1724712705884</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fixed VersionHistory + clone for sheet + unnecessary clone in setCellOriginalValueByCoordinate fixed">
+      <option name="closed" value="true" />
+      <created>1724755349414</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1724755349414</updated>
+    </task>
+    <task id="LOCAL-00027" summary="improved exceptions handling + added back option in updateCell menu option  + added SheetName and version to DisplaySheet">
+      <option name="closed" value="true" />
+      <created>1724771248099</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1724771248099</updated>
+    </task>
+    <task id="LOCAL-00028" summary="visual fixed">
+      <option name="closed" value="true" />
+      <created>1724772441812</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1724772441812</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Save and Load system state (Bounce)">
+      <option name="closed" value="true" />
+      <created>1724836420209</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1724836420209</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fixed ui to work with sub menus + fixed the count of changed cells to not count new cells that are empty + fixed the VersionHistoryManager so it wont save versions that have no changes">
+      <option name="closed" value="true" />
+      <created>1724935696870</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1724935696870</updated>
+    </task>
+    <task id="LOCAL-00031" summary="separator lines in printing">
+      <option name="closed" value="true" />
+      <created>1724940830953</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1724940830953</updated>
+    </task>
+    <task id="LOCAL-00032" summary="final">
+      <option name="closed" value="true" />
+      <created>1724941426182</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1724941426182</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jaxb" />
+    <MESSAGE value="jaxb files + load xml" />
+    <MESSAGE value="jaxb files + load xml + validate" />
+    <MESSAGE value="fixed expressions message + fixed xml validator functions" />
+    <MESSAGE value="fixed undefined problem" />
+    <MESSAGE value="set cell value Recursively" />
+    <MESSAGE value="set cell value topologicalSort" />
+    <MESSAGE value="UI + DTO" />
+    <MESSAGE value="UI = DTO" />
+    <MESSAGE value="UI + DTO + add toString and HashCode in CoordinateDTO for good display Sheet action" />
+    <MESSAGE value="fixed update dep and inf lists after updating a single cell + fixed printing of single cell and Coordinate" />
+    <MESSAGE value="added versions handling and display versions" />
+    <MESSAGE value="fixed adding new cell from update single cell action in Menu and more bugs fixed" />
+    <MESSAGE value="removing edge (of dependedOn) when cell is updated to a different expression" />
+    <MESSAGE value="circular dependency -&gt; DFS" />
+    <MESSAGE value="fixed DFS (Ref to Null not working good)" />
+    <MESSAGE value="fixed Ref to Null cell" />
+    <MESSAGE value="fixed VersionHistory + clone for sheet + unnecessary clone in setCellOriginalValueByCoordinate fixed" />
+    <MESSAGE value="improved exceptions handling + added back option in updateCell menu option  + added SheetName and version to DisplaySheet" />
+    <MESSAGE value="visual fixed" />
+    <MESSAGE value="Save and Load system state (Bounce)" />
+    <MESSAGE value="UI split into menu Items" />
+    <MESSAGE value="fixed ui to work with sub menus + fixed the count of changed cells to not count new cells that are empty + fixed the VersionHistoryManager so it wont save versions that have no changes" />
+    <MESSAGE value="separator lines in printing" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/UI/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/sheet/cell/api/CellType.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/impl/operation/Sub.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/sheet/DTO/SheetDTO.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/impl/operation/Divide.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/impl/operation/Ref.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/sheet/impl/SheetImpl.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/impl/UnaryExpression.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/impl/operation/Ref.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/impl/operation/Ref.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/sheet/impl/SheetImpl.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/menu/MenuActionLogic.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/sheet/impl/SheetImpl.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/impl/operation/Ref.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/parser/Validator.java</url>
+          <line>13</line>
+          <properties class="logicStructure.expression.parser.Validator" method="isNumeric">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/expression/impl/operation/Divide.java</url>
+          <line>18</line>
+          <properties class="logicStructure.expression.impl.operation.Divide" method="evaluate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/specialException/CircularDependencyException.java</url>
+          <line>11</line>
+          <properties class="logicStructure.specialException.CircularDependencyException" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/Engine/src/menu/SheetMenuImpl.java</url>
+          <line>81</line>
+          <properties class="menu.SheetMenuImpl" method="getSheetAccordingToVersion">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/Engine/src/logicStructure/sheet/cell/impl/EffectiveValueImpl.java</url>
+          <line>88</line>
+          <properties class="logicStructure.sheet.cell.impl.EffectiveValueImpl" method="equals">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="logicStructure.sheet.impl.SheetImpl" memberName="activeCells" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+      </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Engine/xmlLoader/XmlSheetLoader.java" line="42">
+        <watch expression="e" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+</project>
